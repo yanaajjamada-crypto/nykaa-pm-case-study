@@ -1,3 +1,12 @@
+<style>
+body { background-color: #fff5f7 !important; }
+h1, h2, h3, h4 { color: #c0305a !important; }
+a { color: #e0457b !important; }
+blockquote { border-left: 4px solid #e0457b !important; background: #fff0f4 !important; }
+table th { background-color: #f9c6d5 !important; }
+table tr:nth-child(even) { background-color: #fff5f7 !important; }
+code { background-color: #fde8ef !important; color: #b5305a !important; }
+</style>
 # 💄 Nykaa Product Case Study
 ## Improving Product Discovery & Conversion on Nykaa
 
